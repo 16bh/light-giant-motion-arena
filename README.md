@@ -53,6 +53,16 @@ npm run build
 - `public/assets/` 包含本地图片、音频和姿态识别运行时资源
 - `public/vision/` 包含 MediaPipe Vision WASM 和姿态模型文件
 
+## 界面效果
+
+### 奥特曼入场特写
+
+![奥特曼入场特写](docs/screenshots/hero-entrance.png)
+
+### 城市废墟战斗视角
+
+![城市废墟战斗视角](docs/screenshots/battle-arena.png)
+
 ## 素材说明
 
 仓库中的角色、背景、音效和模型文件用于本地演示。基于这些素材进行再分发或商业使用前，请确认相应素材的授权范围。
